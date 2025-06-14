@@ -9,7 +9,7 @@ You can find the original source code here: <a href="https://github.com/LittleFo
 <h4>Requirements</h4>
 <ul>
   <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
-  <li><b>WindHawk Plugin</b>: Logon, Logoff, Shutdown Sound Enabler</li>
+  <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
   <li>UltraUxThemePatcher | SecureUxTheme | <b>WindHawk Plugin</b>: UxThemeHook</li>
   <li>StartAllBack</li>
   <li>OldNewExplorer</li>
