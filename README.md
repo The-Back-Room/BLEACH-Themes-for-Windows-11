@@ -28,15 +28,3 @@ You can find the original source code here: <a href="https://github.com/LittleFo
   <li><b>BLEACH</b>: Thousand Year Blood War - Small Title Bar</li>
   <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title Bar</li>
 </ul>
-<br /><br />
-<details align="center">
-  <summary>Settings</summary>
-  <h4>DWMBlurGlass</h4>
-  <img width="40%" src="https://github.com/user-attachments/assets/5ae8f2d3-a07c-4a20-961e-6293c0999928" /> <img width="40%" src="https://github.com/user-attachments/assets/6ca49190-35df-4352-ac41-fb2d29b93d93" />
-  <br />
-  <h4>StartAllBack</h4>
-  <img width="40%" src="https://github.com/user-attachments/assets/89d80c9f-6970-49dd-ac69-d436d5f83aab" /> <img width="40%" src="https://github.com/user-attachments/assets/ccc80b7d-72c5-45f0-aba4-9ffd353e5d1d" />
-  <br />
-  <h4>OldNewExplorer</h4>
-  <img width="40%" src="https://github.com/user-attachments/assets/aa5e77ae-2d91-4222-a607-56c707c96ad0" />
-</details>
