@@ -28,3 +28,5 @@ You can find the original source code here: <a href="https://github.com/LittleFo
   <li><b>BLEACH</b>: Thousand Year Blood War - Small Title Bar</li>
   <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title Bar</li>
 </ul>
+<br /><br />
+<b>Download</b>: <a href="https://github.com/The-Back-Room/BLEACH-Themes-for-Windows-11/archive/refs/heads/main.zip">Download ZIP</a>
