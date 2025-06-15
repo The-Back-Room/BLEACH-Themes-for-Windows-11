@@ -10,7 +10,7 @@ You can find the original source code here: <a href="https://github.com/LittleFo
 <ul>
   <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
   <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
-  <li><b>MicaForEveryone</b></li>
+  <li><b>Mica for Everyone</b></li>
   <li>UltraUxThemePatcher | SecureUxTheme | <b>WindHawk Plugin</b>: UxThemeHook</li>
   <li>StartAllBack | Explorer7</li>
   <li>OldNewExplorer| <b>WindHawk Plugin</b>: Aerexplorer</li>
